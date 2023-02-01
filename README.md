@@ -1,2 +1,2 @@
-# sdesheet
-this  has  the  code  of  questions  during the  sdechallege
+# coding questions
+this  has  the  code  of  questions  during the   practice
